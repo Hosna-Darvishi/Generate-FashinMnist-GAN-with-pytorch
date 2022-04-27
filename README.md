@@ -1,2 +1,2 @@
-# generate-handwritten-digits-GAN-with-pytorch
-generate-handwritten-digits-GAN with pytorch
+# Generate-FashionMnist-GAN-with-pytorch
+Generate-FashinMnist-GAN with pytorch
